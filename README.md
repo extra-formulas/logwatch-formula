@@ -1,0 +1,2 @@
+# logwatch-formula
+Configure logwatch
